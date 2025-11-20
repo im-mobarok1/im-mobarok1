@@ -1,20 +1,14 @@
 <div align="center">
 
-  < img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Hello,%20I'm%20Mobarok%20Hossen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20|%20CS%20Graduate%20|%20Web%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Hello,%20I'm%20Mobarok%20Hossen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20|%20CS%20Graduate%20|%20Web%20Developer&descAlignY=55&descAlign=50)
 
-  ### 🚀 Motivated & Adaptable Computer Science Professional
-  
-  *Based in Gazipur, Dhaka*
+### 🚀 Motivated & Adaptable Computer Science Professional
 
-  <a href=" ">
-    < img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a >
-  <a href="mailto:mobaroksima21@gmail.com">
-    < img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a >
-  <a href="http://www.mobarok.rf.gd">
-    < img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a >
+*Based in Gazipur, Dhaka*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobarok-hossen-551478232)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobaroksima21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.mobarok.rf.gd)
 
 </div>
 
@@ -22,12 +16,12 @@
 
 ### 👨‍💻 About Me
 
-[span_0](start_span)I am a Computer Science graduate eager to apply a diverse skill set in a dynamic work environment[span_0](end_span). [span_1](start_span)I combine technical expertise in **Cloud Computing** and **Web Development** with managerial experience from the Mobile Manufacturing Industry[span_1](end_span).
+I am a Computer Science graduate eager to apply a diverse skill set in a dynamic work environment. I combine technical expertise in **Cloud Computing** and **Web Development** with managerial experience from the Mobile Manufacturing Industry.
 
 * 🔭 **Currently working on:** Cloud Security research and Web Development.
 * 🌱 **I’m currently learning:** Advanced AWS/Azure deployments and Prompt Engineering.
 * 💬 **Ask me about:** Cloud Solutions, Linux, WordPress, and ERP Management.
-* [span_2](start_span)⚡ **Soft Skills:** Critical Thinking, Team Leadership, and Problem Solving[span_2](end_span).
+* ⚡ **Soft Skills:** Critical Thinking, Team Leadership, and Problem Solving.
 
 ---
 
@@ -50,14 +44,14 @@
 
 #### **Cloud Engineer (Intern) | Glaze Information Technology Limited**
 *(Sep 2024 - Dec 2024)*
-* [span_3](start_span)☁️ Assisted in the deployment and management of cloud-based applications using **AWS** and **Azure**[span_3](end_span).
-* [span_4](start_span)🛡️ Developed and implemented cloud solutions for data storage, backup, and recovery[span_4](end_span).
-* [span_5](start_span)📝 Conducted research on cloud security best practices[span_5](end_span).
+* ☁️ Assisted in the deployment and management of cloud-based applications using **AWS** and **Azure**.
+* 🛡️ Developed and implemented cloud solutions for data storage, backup, and recovery.
+* 📝 Conducted research on cloud security best practices.
 
 #### **Operator | Benli Electronic Enterprise Company Limited**
 *(Jun 2020 - Jan 2022)*
-* [span_6](start_span)🏭 Managed ERP systems and material counting/testing[span_6](end_span).
-* [span_7](start_span)🔧 Handled NG replacement and aging processes[span_7](end_span).
+* 🏭 Managed ERP systems and material counting/testing.
+* 🔧 Handled NG replacement and aging processes.
 
 ---
 
@@ -81,6 +75,8 @@
 ---
 
 <div align="center">
-< img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-< img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=im-mobarok1&show_icons=true&theme=radical&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-mobarok1&layout=compact&theme=radical&hide_border=true)
+
 </div>
