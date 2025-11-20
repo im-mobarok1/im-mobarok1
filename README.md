@@ -57,9 +57,13 @@
 
 <div align="center">
   <br/>
-  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer)
 </div>
+
 <br>
+
+
+
 ```json
 {
   "user": "root@mobarok",
