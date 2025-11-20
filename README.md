@@ -1,52 +1,86 @@
-# Hi there, I'm Alex! 👋
+<div align="center">
 
-**`Full-Stack Developer & Open-Source Enthusiast`**
+  < img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Hello,%20I'm%20Mobarok%20Hossen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20|%20CS%20Graduate%20|%20Web%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 
-I build things for the web, from robust backend APIs to beautiful and interactive frontends.
+  ### 🚀 Motivated & Adaptable Computer Science Professional
+  
+  *Based in Gazipur, Dhaka*
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8B5CF6?style=for-the-badge)](https://alex.dev)
-[![LinkedIn](https://img.shields.io/badge/📬-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/alex)
+  <a href=" ">
+    < img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a >
+  <a href="mailto:mobaroksima21@gmail.com">
+    < img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a >
+  <a href="http://www.mobarok.rf.gd">
+    < img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a >
 
-## 🚀 About Me
-
-- 🌱 Currently mastering **System Design**.
-- 💼 Open to new **backend or full-stack opportunities**.
-- 🎯 **2024 Goal:** Contribute to 3 major open-source projects.
-
-### 💻 Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
-
-## 🛠️ Featured Projects
-
-### [E-Commerce API](https://github.com/alex/ecommerce-api)
->A high-performance RESTful API for an e-commerce platform.
->- **Tech:** Node.js, Express, PostgreSQL, Docker
->- [![View Code](https://img.shields.io/badge/📁-View%20Code-blue)](https://github.com/alex/ecommerce-api)
-
-## 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex&show_icons=true&theme=radical" />
+</div>
 
 ---
 
-📫 **How to reach me:** `alex@email.com`
+### 👨‍💻 About Me
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House## Hi there 👋
+[span_0](start_span)I am a Computer Science graduate eager to apply a diverse skill set in a dynamic work environment[span_0](end_span). [span_1](start_span)I combine technical expertise in **Cloud Computing** and **Web Development** with managerial experience from the Mobile Manufacturing Industry[span_1](end_span).
 
-<!--
-**im-mobarok1/im-mobarok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 **Currently working on:** Cloud Security research and Web Development.
+* 🌱 **I’m currently learning:** Advanced AWS/Azure deployments and Prompt Engineering.
+* 💬 **Ask me about:** Cloud Solutions, Linux, WordPress, and ERP Management.
+* [span_2](start_span)⚡ **Soft Skills:** Critical Thinking, Team Leadership, and Problem Solving[span_2](end_span).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+| **Cloud & DevOps** | **Web Development** | **Tools & Platforms** |
+| :---: | :---: | :---: |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
+| | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white) | ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white) |
+
+</div>
+
+---
+
+### 💼 Professional Experience
+
+#### **Cloud Engineer (Intern) | Glaze Information Technology Limited**
+*(Sep 2024 - Dec 2024)*
+* [span_3](start_span)☁️ Assisted in the deployment and management of cloud-based applications using **AWS** and **Azure**[span_3](end_span).
+* [span_4](start_span)🛡️ Developed and implemented cloud solutions for data storage, backup, and recovery[span_4](end_span).
+* [span_5](start_span)📝 Conducted research on cloud security best practices[span_5](end_span).
+
+#### **Operator | Benli Electronic Enterprise Company Limited**
+*(Jun 2020 - Jan 2022)*
+* [span_6](start_span)🏭 Managed ERP systems and material counting/testing[span_6](end_span).
+* [span_7](start_span)🔧 Handled NG replacement and aging processes[span_7](end_span).
+
+---
+
+### 🏆 Featured Project
+
+**🍧 Gelato's Den: A Modern Restaurant Management System**
+* **Role:** Supervisor
+* **Tech:** Web Development Stack
+* **Description:** A comprehensive system for managing restaurant operations.
+* **Live Link:** [Visit Gelato's Den](https://www.gelatosden.rf.gd)
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Year | Result |
+| :--- | :--- | :--- | :--- |
+| **B.Sc. in Computer Science** | Anwer Khan Modern University | 2021-2024 | 3.33/4.00 |
+| **HSC (Science)** | Gazipur Govt. Technical School | 2017-2019 | 4.61/5.00 |
+
+---
+
+<div align="center">
+< img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+< img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
