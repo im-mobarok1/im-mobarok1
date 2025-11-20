@@ -55,10 +55,8 @@
 
 
 
-<div align="center">
-  <br/>
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer)
-</div>
+<!-- Animated Footer -->
+<div align="center"> < img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer Wave" /> </div>
 
 <br>
 
