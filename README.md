@@ -1,61 +1,32 @@
 <div align="center">
- 
-  < img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=300&section=header&text=Mobarok%20Hossen&fontSize=80&fontColor=00BFFF&animation=fadeIn&fontAlignY=35&desc=CLOUD%20ENGINEER%20//%20SYSTEM%20ARCHITECT%20//%20FULL%20STACK&descAlignY=55&descAlign=50&descSize=20" width="100%" />
 
-  <a href=" ">
-    < img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+Cloud+Protocols...;Deploying+AWS+%26+Azure+Infrastructures...;System+Status:+ONLINE;Welcome+to+my+workspace." alt="Typing SVG" />
-  </a >
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Mobarok%20Hossen&fontSize=80&fontColor=00BFFF&animation=fadeIn&fontAlignY=35&desc=C%20L%20O%20U%20D%20%20%20A%20R%20C%20H%20I%20T%20E%20C%20T&descAlignY=60&descAlign=50&descSize=20)
 
-  <br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+System...;Accessing+AWS+%26+Azure+Cloud...;Deploying+Secure+Infrastructure...;Status:+ONLINE.)](https://git.io/typing-svg)
 
-  <a href="https://www.linkedin.com/in/mobarok-hossen-551478232">
-    < img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a >
-  <a href="http://www.mobarok.rf.gd">
-    < img src="https://img.shields.io/badge/WEBSITE-VISIT-FF0055?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a >
-  <a href="mailto:mobaroksima21@gmail.com">
-    < img src="https://img.shields.io/badge/EMAIL-SEND-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a >
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobarok-hossen-551478232)
+[![Email](https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobaroksima21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.mobarok.rf.gd)
 
 </div>
 
 <br/>
 
 <div align="center">
-< img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+< img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="50">
 
-<table style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
-  <tr>
-    <td align="left" width="100%">
-      <div style="padding: 20px;">
-        < img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" align="right">
-        <span style="color: #FF5F5F;">root@mobarok</span>:<span style="color: #00BFFF;">~/portfolio</span>$ cat about_me.json <br/><br/>
-        <span style="color: #e6edf3;">
-        {<br/>
-        &nbsp;&nbsp;"current_role": "<b>Cloud Engineer @ Glaze IT</b>",<br/>
-        &nbsp;&nbsp;"location": "Gazipur, Dhaka",<br/>
-        &nbsp;&nbsp;"education": "<b>B.Sc Computer Science (3.33/4.00)</b>",<br/>
-        &nbsp;&nbsp;"superpowers": ["Cloud Security", "Linux", "DevOps"],<br/>
-        &nbsp;&nbsp;"mission": "To build scalable, secure cloud architecture."<br/>
-        }<br/>
-        </span>
-        <br/>
-        <span style="color: #FF5F5F;">root@mobarok</span>:<span style="color: #00BFFF;">~/portfolio</span>$ <span class="blink">_</span>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
+### 👨‍💻 **System Protocol: Active**
 
-<br/><br/>
-
-<h3 align="center">⚡ THE ARSENAL</h3>
-<div align="center">
-  < img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,git,github,html,css,js,wordpress,shopify&perline=6&theme=dark" />
-</div>
-
-<br/><br/>
+json
+{
+  "user": "root@mobarok",
+  "current_mission": "Cloud Engineer (Intern) @ Glaze IT",
+  "stack": ["AWS", "Azure", "Linux", "DevOps"],
+  "location": "Gazipur, Dhaka",
+  "status": "Building scalable, secure architecture."
+}
 
 <div align="center">
 <table style="background-color: #000; border-radius: 15px; border: 2px solid #39FF14;">
@@ -89,4 +60,20 @@
 <div align="center">
   <br/>
   < img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=100&section=footer" width="100%" />
+</div>
+</div>
+⚡ The Arsenal (Tech Stack)
+<div align="center">
+</div>
+🚀 Featured Operation
+<div align="center">
+
+</div>
+📊 Network Analytics
+<div align="center">
+</div>
+<div align="center">
+
+
+< img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
 </div>
