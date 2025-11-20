@@ -1,98 +1,92 @@
 <div align="center">
-  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mobarok%20Hossen&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Cloud%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Full%20Stack%20Dev&descAlignY=60&descAlign=50" width="100%" />
-  
-  <a href=" ">
-    < img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Cloud+Solutions;Automating+with+DevOps;Developing+Modern+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a >
-</div>
+ 
+  < img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=300&section=header&text=Mobarok%20Hossen&fontSize=80&fontColor=00BFFF&animation=fadeIn&fontAlignY=35&desc=CLOUD%20ENGINEER%20//%20SYSTEM%20ARCHITECT%20//%20FULL%20STACK&descAlignY=55&descAlign=50&descSize=20" width="100%" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mobarok-hossen-551478232">
-    < img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  <a href=" ">
+    < img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+Cloud+Protocols...;Deploying+AWS+%26+Azure+Infrastructures...;System+Status:+ONLINE;Welcome+to+my+workspace." alt="Typing SVG" />
   </a >
-  <a href="mailto:mobaroksima21@gmail.com">
-    < img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/mobarok-hossen-551478232">
+    < img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a >
   <a href="http://www.mobarok.rf.gd">
-    < img src="https://img.shields.io/badge/Portfolio-WEB-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" />
+    < img src="https://img.shields.io/badge/WEBSITE-VISIT-FF0055?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a >
+  <a href="mailto:mobaroksima21@gmail.com">
+    < img src="https://img.shields.io/badge/EMAIL-SEND-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a >
+
 </div>
 
-<br />
+<br/>
 
-<table border="0" width="100%">
+<div align="center">
+< img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 The Developer Profile</h3>
-      <br>
-      Hello! I am a <b>Cloud Engineer</b> & <b>CS Graduate</b> based in 🇧🇩 Gazipur. I bridge the gap between complex backend infrastructure and elegant frontend user experiences.
-      <br><br>
-      <ul>
-        <li>🔭 <b>Working on:</b> Cloud Security & AWS Architecture</li>
-        <li>🌱 <b>Learning:</b> Kubernetes & Advanced Prompt Engineering</li>
-        <li>💼 <b>Experience:</b> Cloud Intern at <i>Glaze IT</i></li>
-        <li>🎓 <b>Alumni:</b> Anwer Khan Modern University</li>
-      </ul>
-      <br>
-      <b>🛠 My Weaponry (Tech Stack):</b>
-      <br><br>
-      <div align="left">
-        < img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" />
-        <br><br>
-        < img src="https://skillicons.dev/icons?i=html,css,js,wordpress,shopify,mysql" />
-      </div>
-    </td>
-    <td width="45%" valign="top">
-      <div align="center">
-        <h3>📊 Github Analytics</h3>
-        < img src="https://github-readme-stats.vercel.app/api?username=im-mobarok1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-        <br>
-        < img src="https://github-readme-streak-stats.herokuapp.com/?user=im-mobarok1&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+    <td align="left" width="100%">
+      <div style="padding: 20px;">
+        < img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" align="right">
+        <span style="color: #FF5F5F;">root@mobarok</span>:<span style="color: #00BFFF;">~/portfolio</span>$ cat about_me.json <br/><br/>
+        <span style="color: #e6edf3;">
+        {<br/>
+        &nbsp;&nbsp;"current_role": "<b>Cloud Engineer @ Glaze IT</b>",<br/>
+        &nbsp;&nbsp;"location": "Gazipur, Dhaka",<br/>
+        &nbsp;&nbsp;"education": "<b>B.Sc Computer Science (3.33/4.00)</b>",<br/>
+        &nbsp;&nbsp;"superpowers": ["Cloud Security", "Linux", "DevOps"],<br/>
+        &nbsp;&nbsp;"mission": "To build scalable, secure cloud architecture."<br/>
+        }<br/>
+        </span>
+        <br/>
+        <span style="color: #FF5F5F;">root@mobarok</span>:<span style="color: #00BFFF;">~/portfolio</span>$ <span class="blink">_</span>
       </div>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <h3>🏆 Achievements & Trophies</h3>
-  < img src="https://github-profile-trophy.vercel.app/?username=im-mobarok1&theme=radical&no-frame=true&margin-w=15" />
 </div>
 
-<br/>
+<br/><br/>
 
-<h3 align="center">💼 Career Trajectory</h3>
+<h3 align="center">⚡ THE ARSENAL</h3>
+<div align="center">
+  < img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,git,github,html,css,js,wordpress,shopify&perline=6&theme=dark" />
+</div>
 
-| Year | Role | Company | Key Impact |
-| :--- | :--- | :--- | :--- |
-| **2024** | **Cloud Engineer (Intern)** | Glaze Info Tech | [span_0](start_span)Deployed AWS/Azure apps & managed cloud security[span_0](end_span). |
-| **2020** | **Operator** | Benli Electronic | [span_1](start_span)Managed ERP systems & material testing[span_1](end_span). |
-
-<br/>
-
-<h3 align="center">🚀 Top Project</h3>
+<br/><br/>
 
 <div align="center">
-<table>
+<table style="background-color: #000; border-radius: 15px; border: 2px solid #39FF14;">
   <tr>
-    <td width="70%">
-      <b>🍧 Gelato's Den (Restaurant Management System)</b> <br>
-      A full-stack modern solution for restaurant operations. <br>
-      <i>Role: Supervisor & Developer</i>
-    </td>
-    <td width="30%" align="center">
+    <td align="center" width="600px">
+      <br/>
+      <h3 style="color: #39FF14;">🍧 PROJECT: GELATO'S DEN</h3>
+      <p><i>A Full-Stack Restaurant Management System</i></p >
       <a href="https://www.gelatosden.rf.gd">
-        < img src="https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+        < img src="https://img.shields.io/badge/DEPLOYED-LIVE_DEMO-39FF14?style=flat-square&logo=google-chrome&logoColor=black" />
       </a >
+      <br/><br/>
     </td>
   </tr>
 </table>
 </div>
 
+<br/><br/>
+
+<div align="center">
+  < img src="https://github-readme-stats.vercel.app/api?username=im-mobarok1&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" />
+  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-mobarok1&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117" />
+</div>
+
 <br/>
 
 <div align="center">
-  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-  < img src="https://komarev.com/ghpvc/?username=im-mobarok1&label=Profile%20Views&color=0e75b6&style=flat" alt="mobarok-views" />
+  < img src="https://github-profile-trophy.vercel.app/?username=im-mobarok1&theme=algolia&no-frame=true&column=7" />
+</div>
+
+<div align="center">
+  <br/>
+  < img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=100&section=footer" width="100%" />
 </div>
