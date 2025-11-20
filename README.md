@@ -1,82 +1,98 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Hello,%20I'm%20Mobarok%20Hossen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20|%20CS%20Graduate%20|%20Web%20Developer&descAlignY=55&descAlign=50)
-
-### 🚀 Motivated & Adaptable Computer Science Professional
-
-*Based in Gazipur, Dhaka*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobarok-hossen-551478232)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobaroksima21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.mobarok.rf.gd)
-
+  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mobarok%20Hossen&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Cloud%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Full%20Stack%20Dev&descAlignY=60&descAlign=50" width="100%" />
+  
+  <a href=" ">
+    < img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Cloud+Solutions;Automating+with+DevOps;Developing+Modern+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a >
 </div>
-
----
-
-### 👨‍💻 About Me
-
-I am a Computer Science graduate eager to apply a diverse skill set in a dynamic work environment. I combine technical expertise in **Cloud Computing** and **Web Development** with managerial experience from the Mobile Manufacturing Industry.
-
-* 🔭 **Currently working on:** Cloud Security research and Web Development.
-* 🌱 **I’m currently learning:** Advanced AWS/Azure deployments and Prompt Engineering.
-* 💬 **Ask me about:** Cloud Solutions, Linux, WordPress, and ERP Management.
-* ⚡ **Soft Skills:** Critical Thinking, Team Leadership, and Problem Solving.
-
----
-
-### 🛠️ Tech Stack & Skills
 
 <div align="center">
-
-| **Cloud & DevOps** | **Web Development** | **Tools & Platforms** |
-| :---: | :---: | :---: |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
-| | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white) | ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white) |
-
+  <a href="https://www.linkedin.com/in/mobarok-hossen-551478232">
+    < img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a >
+  <a href="mailto:mobaroksima21@gmail.com">
+    < img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a >
+  <a href="http://www.mobarok.rf.gd">
+    < img src="https://img.shields.io/badge/Portfolio-WEB-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" />
+  </a >
 </div>
 
----
+<br />
 
-### 💼 Professional Experience
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 The Developer Profile</h3>
+      <br>
+      Hello! I am a <b>Cloud Engineer</b> & <b>CS Graduate</b> based in 🇧🇩 Gazipur. I bridge the gap between complex backend infrastructure and elegant frontend user experiences.
+      <br><br>
+      <ul>
+        <li>🔭 <b>Working on:</b> Cloud Security & AWS Architecture</li>
+        <li>🌱 <b>Learning:</b> Kubernetes & Advanced Prompt Engineering</li>
+        <li>💼 <b>Experience:</b> Cloud Intern at <i>Glaze IT</i></li>
+        <li>🎓 <b>Alumni:</b> Anwer Khan Modern University</li>
+      </ul>
+      <br>
+      <b>🛠 My Weaponry (Tech Stack):</b>
+      <br><br>
+      <div align="left">
+        < img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" />
+        <br><br>
+        < img src="https://skillicons.dev/icons?i=html,css,js,wordpress,shopify,mysql" />
+      </div>
+    </td>
+    <td width="45%" valign="top">
+      <div align="center">
+        <h3>📊 Github Analytics</h3>
+        < img src="https://github-readme-stats.vercel.app/api?username=im-mobarok1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+        <br>
+        < img src="https://github-readme-streak-stats.herokuapp.com/?user=im-mobarok1&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-#### **Cloud Engineer (Intern) | Glaze Information Technology Limited**
-*(Sep 2024 - Dec 2024)*
-* ☁️ Assisted in the deployment and management of cloud-based applications using **AWS** and **Azure**.
-* 🛡️ Developed and implemented cloud solutions for data storage, backup, and recovery.
-* 📝 Conducted research on cloud security best practices.
+<br/>
 
-#### **Operator | Benli Electronic Enterprise Company Limited**
-*(Jun 2020 - Jan 2022)*
-* 🏭 Managed ERP systems and material counting/testing.
-* 🔧 Handled NG replacement and aging processes.
+<div align="center">
+  <h3>🏆 Achievements & Trophies</h3>
+  < img src="https://github-profile-trophy.vercel.app/?username=im-mobarok1&theme=radical&no-frame=true&margin-w=15" />
+</div>
 
----
+<br/>
 
-### 🏆 Featured Project
+<h3 align="center">💼 Career Trajectory</h3>
 
-**🍧 Gelato's Den: A Modern Restaurant Management System**
-* **Role:** Supervisor
-* **Tech:** Web Development Stack
-* **Description:** A comprehensive system for managing restaurant operations.
-* **Live Link:** [Visit Gelato's Den](https://www.gelatosden.rf.gd)
-
----
-
-### 🎓 Education
-
-| Degree | Institution | Year | Result |
+| Year | Role | Company | Key Impact |
 | :--- | :--- | :--- | :--- |
-| **B.Sc. in Computer Science** | Anwer Khan Modern University | 2021-2024 | 3.33/4.00 |
-| **HSC (Science)** | Gazipur Govt. Technical School | 2017-2019 | 4.61/5.00 |
+| **2024** | **Cloud Engineer (Intern)** | Glaze Info Tech | [span_0](start_span)Deployed AWS/Azure apps & managed cloud security[span_0](end_span). |
+| **2020** | **Operator** | Benli Electronic | [span_1](start_span)Managed ERP systems & material testing[span_1](end_span). |
 
----
+<br/>
+
+<h3 align="center">🚀 Top Project</h3>
 
 <div align="center">
+<table>
+  <tr>
+    <td width="70%">
+      <b>🍧 Gelato's Den (Restaurant Management System)</b> <br>
+      A full-stack modern solution for restaurant operations. <br>
+      <i>Role: Supervisor & Developer</i>
+    </td>
+    <td width="30%" align="center">
+      <a href="https://www.gelatosden.rf.gd">
+        < img src="https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+      </a >
+    </td>
+  </tr>
+</table>
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=im-mobarok1&show_icons=true&theme=radical&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-mobarok1&layout=compact&theme=radical&hide_border=true)
+<br/>
 
+<div align="center">
+  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  < img src="https://komarev.com/ghpvc/?username=im-mobarok1&label=Profile%20Views&color=0e75b6&style=flat" alt="mobarok-views" />
 </div>
