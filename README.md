@@ -1,11 +1,12 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Mobarok%20Hossen&fontSize=80&fontColor=7F3FBF&animation=fadeIn&fontAlignY=35&desc=C%20L%20O%20U%20D%20%20%20A%20R%20C%20H%20I%20T%20E%20C%20T&descAlignY=55&descAlign=50&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Mobarok%20Hossen&fontSize=80&fontColor=00BFFF&animation=fadeIn&fontAlignY=35&desc=C%20L%20O%20U%20D%20%20%20A%20R%20C%20H%20I%20T%20E%20C%20T&descAlignY=60&descAlign=50&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Initializing+System+Protocols...;Accessing+AWS+%26+Azure+Cloud...;Status:+ONLINE;Welcome,+Recruiter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+System...;Accessing+AWS+%26+Azure+Cloud...;Deploying+Secure+Infrastructure...;Status:+ONLINE.)](https://git.io/typing-svg)
 
 <br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobarok-hossen-551478232)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobaroksima21@gmail.com)
@@ -50,29 +51,15 @@
 
 </div>
 
-<div align="center">
-< img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
-</div>
-
-
-
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Mobarok%20Hossen&fontSize=80&fontColor=00BFFF&animation=fadeIn&fontAlignY=35&desc=C%20L%20O%20U%20D%20%20%20A%20R%20C%20H%20I%20T%20E%20C%20T&descAlignY=60&descAlign=50&descSize=20)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+System...;Accessing+AWS+%26+Azure+Cloud...;Deploying+Secure+Infrastructure...;Status:+ONLINE.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobarok-hossen-551478232)
-[![Email](https://img.shields.io/badge/EMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobaroksima21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.mobarok.rf.gd)
-
-</div>
-
-<br/>
-
 ### 👨‍💻 **System Protocol: Active**
+
+
+</div>
+
+<div align="center">
+  <br/>
+  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer)
+</div>
 
 ```json
 {
@@ -82,3 +69,5 @@
   "location": "Gazipur, Dhaka",
   "status": "Building scalable, secure architecture."
 }
+
+
