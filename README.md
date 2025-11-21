@@ -49,21 +49,13 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-mobarok1&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)
 
-
-
-
-<!-- Animated Footer -->
-<div align="center"> < img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer Wave" /> </div>
 </div>
-</div>
+
+<br/>
+
 ### 👨‍💻 **System Protocol: Active**
 
-
-
-
-<br>
-
-
+<div align="center">
 
 ```json
 {
@@ -73,5 +65,4 @@
   "location": "Gazipur, Dhaka",
   "status": "Building scalable, secure architecture."
 }
-
 
